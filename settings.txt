@@ -1,0 +1,6 @@
+ShowConsole = true
+DebugAcquisition = false
+SleepTime = 1000
+LogEvent = true
+LogTarget = false
+CompareMode = OnlyPluggedQuick
